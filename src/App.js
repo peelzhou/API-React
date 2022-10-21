@@ -26,7 +26,6 @@ function App() {
       'http://universities.hipolabs.com/search?country=Australia'
     );
     setData(initData);
-    console.log(data);
   };
 
   const handleDelete = () => {
